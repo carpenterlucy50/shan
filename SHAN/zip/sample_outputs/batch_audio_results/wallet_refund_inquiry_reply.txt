@@ -1,0 +1,17 @@
+Audio File: wallet_refund_inquiry.wav
+Customer Transcription: where is my refund for my order it was supposed to go to my zentromart wallet balance
+
+Agent Text Response:
+Hello! I am ZentroMart's AI customer support assistant (एआई सहायक). I would be glad to help you today. Could you please share your 8-digit order number?
+
+Retrieved Document Chunks / Sources: STY-1, REF-2
+
+Retrieved Source Chunks Detail:
+
+--- [STY-1] Conversation Style Guide (agent_guide, rank 2) ---
+Heading: Opening Greetings and Role Disclosure
+On the first turn of any conversation, introduce yourself clearly as ZentroMart's AI support assistant and politely ask for the order ID.
+
+--- [REF-2] Refund Timelines and Methods (policy, rank 1) ---
+Heading: ZentroMart Wallet Refunds
+Refunds to ZentroMart Wallet are instant, credited within 2 hours of initiation.
